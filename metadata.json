@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Protocolos Escolares SEV",
+  "description": "Asistente inteligente para la gestión de incidentes escolares basado en la normativa de Veracruz (Ley 303, Protocolos SEV). Genera actas, citatorios y guías de actuación.",
+  "requestFramePermissions": []
+}
